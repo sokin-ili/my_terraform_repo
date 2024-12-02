@@ -1,6 +1,8 @@
 # my_terraform_repo
 *https://medium.com/@sayalishewale12/terraform-docker-creating-images-and-containers-with-terraform-fc3f0364eb13*
 
+#### this is a terraform project test repo
+
 1. declare the provider to be used in the automation -> main.tf
 2. Use resource blocks to define components of your infrastructure. A resource might be a physical or virtual component such as a Docker container, or it can be a logical resource such as a Heroku application.
     * resource type -> docker_image and the name is Nginx

@@ -1,4 +1,5 @@
 # my_terraform_repo
+
 *https://medium.com/@sayalishewale12/terraform-docker-creating-images-and-containers-with-terraform-fc3f0364eb13*
 
 1. declare the provider to be used in the automation -> main.tf
